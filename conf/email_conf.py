@@ -1,7 +1,7 @@
 #Details needed for the Gmail
 #Fill out the email details over here
 imaphost="imap.gmail.com"  #Add imap hostname of your email client
-username="Add your email address or username here"
+username="nilaya"
 
 #Login has to use the app password because of Gmail security configuration
 # 1. Setup 2 factor authentication
