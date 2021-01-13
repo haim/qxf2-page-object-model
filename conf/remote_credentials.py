@@ -3,4 +3,4 @@
 REMOTE_BROWSER_PLATFORM = "BS"
 
 USERNAME = "12345"
-ACCESS_KEY = "abcde"
+ACCESS_KEY = "abcdefgh"
