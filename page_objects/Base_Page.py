@@ -1,6 +1,6 @@
 """
 Page class that all page models can inherit from
-There are useful wrappers for common Selenium operations
+There are useful wrappers for common Selenium operations and
 """
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import WebDriverWait
