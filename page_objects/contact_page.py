@@ -1,5 +1,5 @@
 """
-This class models the Contact page.
+This class models the Contact page. /
 URL: contact
 The page consists of a header, footer and form object.
 """
